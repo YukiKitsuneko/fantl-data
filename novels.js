@@ -1,4 +1,4 @@
-    const novelData = [
+window.novelData = [
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOAE_yZl-sZ1slLxSXMaAgZX-9pUfCrvAf7594NcJa-X7w6ix2pgVAs5g64dxIEciceUDqfS5wDp2Ft8BYCJ2OV15kXM6qJ6nlLewblTstnSda0ttOiMymA0_C-2bUlZm76zYrI0Y3J2z1a1_fRulhX0PmKE7zqqz-sbnM7F0I7R-XAXbaKqjH3SxxaalP/s1600/cover.png",
         "title": "Secretly Holding Hands with You Behind Our Friends’ Back. Falling in Love That Cannot Be Told to Anyone",
