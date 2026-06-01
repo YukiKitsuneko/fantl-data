@@ -11,7 +11,7 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "Completed",
-        "recommended": true
+        "recommended": true,
         "staffPick": true
       },
       {
