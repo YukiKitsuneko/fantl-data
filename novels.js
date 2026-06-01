@@ -12,6 +12,7 @@ window.novelData = [
         "type": "Light Novel",
         "status": "Completed",
         "recommended": true
+        "staffPick": true
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiI4KTEOIPUJLRBlka3Al9zS16cOpX1LzDWOTK8gy3vzz6vA19s9CVmVphCySrzyIiEDWSRdQQtud_hXEQ1hF2c8PClgnJhU8gqjAeGYlvvBqHkXbNLgyQimgMjPUfOVoXo9HmlU6O2uLHXHziBoqfyaP1f_cEG7UOfPjTXLSuKfeGXMHY10gglx8xY_zs/s1600/cover.png",
