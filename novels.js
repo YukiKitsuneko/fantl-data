@@ -15,7 +15,7 @@ window.novelData = [
         "staffPick": true
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiI4KTEOIPUJLRBlka3Al9zS16cOpX1LzDWOTK8gy3vzz6vA19s9CVmVphCySrzyIiEDWSRdQQtud_hXEQ1hF2c8PClgnJhU8gqjAeGYlvvBqHkXbNLgyQimgMjPUfOVoXo9HmlU6O2uLHXHziBoqfyaP1f_cEG7UOfPjTXLSuKfeGXMHY10gglx8xY_zs/s1600/cover.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpO9_jBLwcRWXGOoyEk97NHn7Xu1Hqs_ETFnqe0LUPRBkwP2fS2jqqrdJ5m7q4XSkNBvF6P5zIUn6fopZWIaUDDynKcPghr4nRS-4noPURHnANcBk_dv1szyqyiCe_njFu3nKmki0RywpYCZnYOdZnLZgd2iF32jtHquqTHaBq1Lwoihl1VjYDSHgIGuH/s1600/cover.png",
         "title": "Life Reversal ~ I Was Cheated On and Falsely Accused, but Now the Most Beautiful Girl in the School Is Getting Close to Me ~",
         "link": "https://yukikitsuneko.blogspot.com/p/life-reversal.html",
         "genre": [
