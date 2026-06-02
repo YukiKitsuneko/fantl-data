@@ -376,7 +376,7 @@ window.novelData = [
         "recommended": true
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghPHgjAJb1EWQy-EvnpMQt9yAXMzA-YGEKzSXcFysXZVfwSs5rwvsRmttOONy8vWCGFWtPQdD-LSZlthGaD_YbAmhhqhUpX7xyuHwc89kAkcTF2HWDc-NtkYz_VQQor9ajnb0GwhjQ1Ivvi9x2CBsHvaDaOL4UR339MKQ_mQtfpMDOH9tJ4XKFqJmenQQr/s1600/cover-v2.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpO9_jBLwcRWXGOoyEk97NHn7Xu1Hqs_ETFnqe0LUPRBkwP2fS2jqqrdJ5m7q4XSkNBvF6P5zIUn6fopZWIaUDDynKcPghr4nRS-4noPURHnANcBk_dv1szyqyiCe_njFu3nKmki0RywpYCZnYOdZnLZgd2iF32jtHquqTHaBq1Lwoihl1VjYDSHgIGuH/s1600/cover.png",
         "title": "Living with the Arrogant Queen from High School Is Surprisingly Not Uncomfortable",
         "link": "https://yukikitsuneko.blogspot.com/p/arrogant-queen.html",
         "genre": [
