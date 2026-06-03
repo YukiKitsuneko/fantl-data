@@ -1460,5 +1460,18 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zqZR0M2AwYkmGWqK23320WnToHvW01BVuZYXzPs15zb3Ww6DczAbVakmbju0um3Y30m_QoU4zhBzqN-qishyphenhyphen-jX4gTLL1uAq_L46jFkjOIh6UD_fLZKv9sbXsLncznTopkC28QbKdIo90fwKBByQBR84-m0j3EVk60sluO_JMP75We5llQTcmjBNDhtz/s1600/cover.png",
+        "title": "I Took the Day Off Work Because My Favorite Idol Got Hit with Dating Rumors",
+        "link": "https://yukikitsuneko.blogspot.com/p/my-favorite-idol-got-hit-with-dating.html",
+        "genre": [
+          "Romance",
+          "Slice of Life",
+          "Comedy",
+          "Idol"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
