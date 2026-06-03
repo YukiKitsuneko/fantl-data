@@ -163,7 +163,7 @@ window.novelData = [
         "recommended": true
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAPF0nWdT1EgTsqX-bta33HuejoKJSYqrINNxd0qP6nWTJMEIP5ijtHvR_0jztZqdcEpxEVZuttteuq0mj4dbNne7xL02T4l1ay9e2qDVDwvWveNc1vu36uvadkvy7Ng-WWi8N0YkvyNaM-ya4i-EbmJGOnftA8h_AaF0LIwilABcHY8-1DIIBsyz0GCkL/s1600/I%20Won%E2%80%99t%20Choose%20You.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsdTbZRCKnQJDvnsVwlLO67RkJtb5YF4yZxKIAYC-sjulhQ7S2J-QaV4XbJ8o2jQwxJzraGCjggaOk63J2RF8YaaCm64as4rPlOp918THPDGxbSJa6a-tQfflc0aoY5yY03aN3PnVqEuaDftiKbtqUEyoofL3vi8M_beDA-ZipLAkI_BbG8JqfiEVnQ7Qf/s1600/cover.png",
         "title": "I Won't Choose You",
         "link": "https://yukikitsuneko.blogspot.com/p/i-wont-choose-you.html",
         "genre": [
