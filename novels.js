@@ -11,8 +11,7 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "Completed",
-        "recommended": true,
-        "staffPick": true
+        "recommended": true
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFpO9_jBLwcRWXGOoyEk97NHn7Xu1Hqs_ETFnqe0LUPRBkwP2fS2jqqrdJ5m7q4XSkNBvF6P5zIUn6fopZWIaUDDynKcPghr4nRS-4noPURHnANcBk_dv1szyqyiCe_njFu3nKmki0RywpYCZnYOdZnLZgd2iF32jtHquqTHaBq1Lwoihl1VjYDSHgIGuH/s1600/cover.png",
@@ -179,7 +178,8 @@ window.novelData = [
         ],
         "status": "Completed",
         "type": "Web Novel",
-        "recommended": true
+        "recommended": true,
+        "staffPick": true
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Xzw84W4cBTGHdBKLKRPMXrq1Xf_Qn7StTKMZGS7gXY3hoKckq8YNtr9_dmAi2IGyTGlO6h44yxMHPsg7pz3ZehHL70FKOowVuqeNuLzL0Wfg9EOtAJcgaKCXjRs2Ngdf3tZIAtnYr5LBQr0BReWsWSOLxWWX8H2YluLdsVPHHJPnfLaXmCXLm5BdwZ0H/s1600/no_cover.jpg",
