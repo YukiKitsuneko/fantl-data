@@ -176,8 +176,8 @@ window.novelData = [
           "Psychological",
           "Mystery"
         ],
-        "status": "Completed",
-        "type": "Web Novel",
+        "status": "On-going",
+        "type": "Light Novel",
         "recommended": true,
         "staffPick": true
       },
