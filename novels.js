@@ -1473,5 +1473,19 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJlCapP3yWEGdOd9Tug28RjO_PEGVAoFtTWSSbGfK3ErTv5MIC-GU2s9vu7j3dlEGqukhWBpSzCgvM2UyI15JOmkU7iYCPRRH5571qt3jj0jdw1-vGYC-D-PqZs6O3QQ2BthX2YiJR3Q7Pg4-V053d758zhSW02BUPzT_DLhVk-YTaS0QwROpne9Di3ez/s1600/cover.png",
+        "title": "If I Could Meet You Again in That Sunflower Field",
+        "link": "https://yukikitsuneko.blogspot.com/p/my-favorite-idol-got-hit-with-dating.html",
+        "genre": [
+          "Romance",
+          "Coming-of-age",
+          "Comedy",
+          "Drama",
+          "Reincarnation"
+        ],
+        "type": "Light Novel",
+        "status": "One Shot"
       }
     ];
