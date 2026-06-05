@@ -1336,7 +1336,7 @@ window.novelData = [
         "status": "On-Going"
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIl4hNsyQGzp9Bxj_EmMb0zC8AH6OCsZ1ACVHgtT0JSRVTDWYWqhP6YCrMadF-FOkY3R1zxb_P4v2vwY7ijTxH-yKcv3EamMmlSE2ylK7pBz7YOhkNz-pBgu6dlOXMXg7c3bj4c7RuQI-DbX_gRAoubUiVLWzT3ulN4gnNdtzpmEAsEvLRiHNa0KbspWG2/s1600/cover.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRjGWBchfysXfHTNw9UU0HLGuNvx1KC-XuxvTAb_VAOducL1BaSEHxGmK7loXy1aPCYPoMrFu1xVFMStEfaJ5mP84F-4P_JBGx_m6tWRSmRbO_Y2_ISyOV1IJVPBZHIR1sASNBVEoAfmXZ_GNfkbIPhqDsq1UbbDpHb8Klj1vnH4rc5v8IzD-VXTZQyYjG/s1600/cover.png",
         "title": "Hammered Girl",
         "link": "https://yukikitsuneko.blogspot.com/p/hammered-girl.html",
         "genre": [
