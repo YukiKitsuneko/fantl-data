@@ -1487,5 +1487,20 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "One Shot"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgREMvlyuitw-Yb6HPFUWnQCSc81Q_x6qnysREypbitI692TvuNR7akznSDCw-6I1h6WwzRsUpgXlPPRq4fSw5Mvn-8dFlB0pt2YdDZx3KzuUIs-v_VWdC3ScOOVW8vGfD5XnNO4On1AjFuT-iXG5VGE55mqOmu67AjLvrLbRt4OKvTrsg5MVezJxLNEkig/s1600/cover.png",
+        "title": "The Low-Energy, Carefree Gyaru Decided to Lean on Me with Everything She’s Got",
+        "link": "https://yukikitsuneko.blogspot.com/p/the-low-energy-carefree-gyaru.html",
+        "genre": [
+          "Romance",
+          "Ecchi",
+          "Comedy",
+          "Gyaru",
+          "Pure Diabetes",
+          "Cohabitation"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
