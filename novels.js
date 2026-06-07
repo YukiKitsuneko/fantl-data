@@ -1503,4 +1503,25 @@ window.novelData = [
         "type": "Light Novel",
         "status": "On-Going"
       }
+      ,
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8sFonkwz62v4oGDYLA4qJUVJPPlW05V04jtAdWzepc7p4GoftmL_PY-gLSu2t9e1rhmEoiHrPQoJmwyM2U7dGLeyXeHJsR6DARoV4Bwu5lpXNsd547DJzssBEWG_1nos_hfbzbL-fRl65lUU40gyWWLuU8i-jLCIdMIIgn4daWuIMwcSv3bGB9D8o3g9c/s1600/cover.png",
+        "title": "Never Learned to Say Goodbye",
+        "link": "https://yukikitsuneko.blogspot.com/p/never-learned-to-say-goodbye.html",
+        "genre": [
+          "Death Game",
+          "Survival",
+          "Strategy",
+          "Psychological",
+          "Supernatural Abilities",
+          "Time Loop",
+              "Team Battles",
+              "Territory War",
+              "Game System",
+              "Dark Fantasy",
+              "Mind Games"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
+      }
     ];
