@@ -1538,7 +1538,7 @@ window.novelData = [
               "Reluctant Hero",
               "Magic",
               "Adventure",
-              "Romantic Subplot"
+              "Romance Subplot"
         ],
         "type": "Light Novel",
         "status": "On-Going"
@@ -1546,7 +1546,7 @@ window.novelData = [
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCEzDbgv38PJxRIIy2ygchWBfz1i3wf16s2Q8fiWO1Am3ueuiOrlZ9WIt1XN9YRPMjcXXv-bngsUdMUwiLF5I84QAlYmBxoQ4yGe6Ty7mtLG9MZtaJgU6s9w4SIqiFJV52lWbAxplAnKgwtKEe7aHXt3ixLYM9B2YTLeVXOOabDE9ey4chL9swyi-rs6t/s1600/cover.png",
         "title": "Just an Idol — But Still, That Face Is Gorgeous",
-        "link": "https://yukikitsuneko.blogspot.com/p/never-learned-to-say-goodbye.html",
+        "link": "https://yukikitsuneko.blogspot.com/p/just-idol.html",
         "genre": [
           "Romance",
           "Comedy",
@@ -1555,6 +1555,36 @@ window.novelData = [
           "Showbiz",
           "School Life",
               "Cohabitation"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
+      }
+      ,
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCEzDbgv38PJxRIIy2ygchWBfz1i3wf16s2Q8fiWO1Am3ueuiOrlZ9WIt1XN9YRPMjcXXv-bngsUdMUwiLF5I84QAlYmBxoQ4yGe6Ty7mtLG9MZtaJgU6s9w4SIqiFJV52lWbAxplAnKgwtKEe7aHXt3ixLYM9B2YTLeVXOOabDE9ey4chL9swyi-rs6t/s1600/cover.png",
+        "title": "One Watson in a Million",
+        "link": "https://yukikitsuneko.blogspot.com/p/one-watson-in-million.html",
+        "genre": [
+          "VTuber",
+          "Mystery",
+          "Anti-Mystery",
+          "Childhood Friends",
+          "Romance Subplot"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZJvPOCIGkyIAPBDdFITP5gpPRlnw3Sz5ab0-pbPC7EYDM4P1WIX4REIQSXNVjuqMZL7LcC1554Y05IHADPHhRm7Gh9lGg-Z4UPUrSm0iFGWFrYnGzO0vZsoyMgG_0tjsb4Lbz-OAmVkqTbNPcVyHHHGqAHg4appY9vyWM2USt0JQimXKyDR0XdIAfSZfe/s1600/cover.png",
+        "title": "My Ex-Idol Classmate Is Acting Super Suspicious",
+        "link": "https://yukikitsuneko.blogspot.com/p/my-ex-idol-classmate-is-acting-super.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Idol",
+          "School Life",
+          "Pure Diabetes",
+          "Slice of Life"
         ],
         "type": "Light Novel",
         "status": "On-Going"
