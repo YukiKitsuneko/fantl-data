@@ -1523,5 +1523,40 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWpgHR9-UF1jjF8fic8VN8eASfNaNzzcIlMQj6IzorrZyftlSQuYBjPVnFqgEIIorWLQoULJ8QRjrBra1_tRKRnGPhm0mqVLUxWWphYx6KZpnP1n75K0Jou48f8PmSVM5ap3MevUMEpQBjvJiEmoxTeW7aFwsk9BvoxI9PRfe5IJjdGvQ1SbeD-PR6y2mM/s1600/cover.png",
+        "title": "The Jaded Summoner Refuses to Budge",
+        "link": "https://yukikitsuneko.blogspot.com/p/never-learned-to-say-goodbye.html",
+        "genre": [
+          "Isekai",
+          "Fantasy",
+          "Summoning",
+          "Overpowered MC",
+          "Reclusive MC",
+          "Slow Life",
+              "Reluctant Hero",
+              "Magic",
+              "Adventure",
+              "Romantic Subplot"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCEzDbgv38PJxRIIy2ygchWBfz1i3wf16s2Q8fiWO1Am3ueuiOrlZ9WIt1XN9YRPMjcXXv-bngsUdMUwiLF5I84QAlYmBxoQ4yGe6Ty7mtLG9MZtaJgU6s9w4SIqiFJV52lWbAxplAnKgwtKEe7aHXt3ixLYM9B2YTLeVXOOabDE9ey4chL9swyi-rs6t/s1600/cover.png",
+        "title": "Just an Idol — But Still, That Face Is Gorgeous",
+        "link": "https://yukikitsuneko.blogspot.com/p/never-learned-to-say-goodbye.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Idol",
+          "Harem",
+          "Showbiz",
+          "School Life",
+              "Cohabitation"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
