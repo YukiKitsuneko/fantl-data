@@ -1561,7 +1561,7 @@ window.novelData = [
       }
       ,
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCEzDbgv38PJxRIIy2ygchWBfz1i3wf16s2Q8fiWO1Am3ueuiOrlZ9WIt1XN9YRPMjcXXv-bngsUdMUwiLF5I84QAlYmBxoQ4yGe6Ty7mtLG9MZtaJgU6s9w4SIqiFJV52lWbAxplAnKgwtKEe7aHXt3ixLYM9B2YTLeVXOOabDE9ey4chL9swyi-rs6t/s1600/cover.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0hQjODCLAqJpZr6nyNKQjByrS8zsZIZ71uVGAWx6dF_Zt10ct1dR6mE_lmOasj4HPOYXT2uOBqoYMssV81AnSgGgaEiL9Lfx01s_ToDLgUSCLGV5j6Qp-UAcxHHUJzz7R3y4x2nobtGVE3iA3vuhjJx29fCask7_T23kcn1bRfWmxpBg9z3ioNaqSJkoi/s1600/i-000a.png",
         "title": "One Watson in a Million",
         "link": "https://yukikitsuneko.blogspot.com/p/one-watson-in-million.html",
         "genre": [
