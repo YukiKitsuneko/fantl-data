@@ -25,7 +25,7 @@ window.novelData = [
           "Psychological",
           "Netorare"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -65,7 +65,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -78,7 +78,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -124,7 +124,7 @@ window.novelData = [
           "Romance",
           "Supernatural"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -141,7 +141,7 @@ window.novelData = [
           "Tragedy",
           "Psychological"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Web Novel"
       },
       {
@@ -157,7 +157,7 @@ window.novelData = [
           "School Love",
           "University Student"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Web Novel",
         "recommended": true
       },
@@ -212,7 +212,7 @@ window.novelData = [
           "Slice of Life",
           "Time Leap"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light/Web Novel"
       },
       {
@@ -225,7 +225,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light/Web Novel"
       },
       {
@@ -280,7 +280,7 @@ window.novelData = [
           "Harem",
           "Ecchi"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel",
         "recommended": true
       },
@@ -305,7 +305,7 @@ window.novelData = [
           "Comedy",
           "Fantasy"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -318,7 +318,7 @@ window.novelData = [
           "Comedy",
           "Working Adults"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -331,7 +331,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -344,7 +344,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -357,7 +357,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -386,7 +386,7 @@ window.novelData = [
           "Ecchi",
           "Psychological"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel",
         "recommended": true
       },
@@ -413,7 +413,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -468,7 +468,7 @@ window.novelData = [
           "Pure Love",
           "R18"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -481,7 +481,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -506,7 +506,7 @@ window.novelData = [
           "Romance",
           "School Life"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -533,7 +533,7 @@ window.novelData = [
           "School Life",
           "Fantasy"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -547,7 +547,7 @@ window.novelData = [
           "Fantasy",
           "Yandere"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -561,7 +561,7 @@ window.novelData = [
           "School Life",
           "Romance"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -616,7 +616,7 @@ window.novelData = [
           "Slice of Life",
           "Yandere"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -646,7 +646,7 @@ window.novelData = [
           "Doting Love",
           "Diabetic"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Web Novel",
         "recommended": true
       },
@@ -715,7 +715,7 @@ window.novelData = [
           "School Life",
           "Harem"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -758,7 +758,7 @@ window.novelData = [
           "Gal",
           "Cohabitation"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light/Web Novel"
       },
       {
@@ -772,7 +772,7 @@ window.novelData = [
           "Drama",
           "Ecchi"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Light Novel"
       },
       {
@@ -799,9 +799,9 @@ window.novelData = [
           "Office Love",
           "Slice of Life"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Web Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDRfk_wUq-CLLpQ1LJdHCYj8DsP-mgdlz0ZFqiAq9wPtJ1bthoH4AQmmJQpO2AbBsA1Mu_0VV6ET35lDDpnj5iTCcvKzhw2aOFw1JMDAJN5xTXwRBFgGoq5hcrkqlfq_qBJmM2pxmvq70Arfn-ZVGH8OlBYf0c_qk231iC83_cqRcFkXQCjAjLv1O5JVC/s1600/Walking%20With%20The%20Beautiful%20Girl%20After%20School.png",
@@ -813,7 +813,7 @@ window.novelData = [
           "School Life",
           "Pure Diabetes"
         ],
-        "status": "Ongoing",
+        "status": "On-going",
         "type": "Web Novel",
         "recommended": true
       },
@@ -828,7 +828,7 @@ window.novelData = [
           "Tsundere"
         ],
         "type": "Web Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmlwUFalNoRPoc3nLd9I23nsrcnBk1OE05uzL7IvPm9uhDDSYDp7a-QoS_-wq1tsMW2nd18GjxRfSREkJ_DJ9d2-VFah1Oi38r1BBJ1lzC96QFXEYiMQtv86IbI9-Rr5MG35MRGQ3a8Z67AgbvgMoh8n9j1HmboiCs7xIupCY9unEJNjI3U-yAUdDV1Wt/s1600/Villainess%20Office%20Lady.png",
@@ -902,7 +902,7 @@ window.novelData = [
           "Bickering Couple"
         ],
         "type": "Manga",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6CHTIzqqHg7FnG4N8A96TDHiPRaSq-JZgMFsr58pMEnQ88rI7q3QK6zYWz-_uhk0_M9n1bz1ZLYeu_af7Vydby0dmFC1l8Cx-G91FcGfvTdzRhwRG1_Rxhqr6Nuzaq1SWcmd_Wipo7349m3UrQox2T0FhRNMnBJ6vmR4UTczxX58_Cms-P5sNF6GdsTQl/s1600/cover.png",
@@ -929,7 +929,7 @@ window.novelData = [
           "Adult"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrH_JuJsVjGbjNCofN_kWmZr0yKKGWMRg7A85IO2TtkMRaO8ZoAEQyKanmUGY2xEEho5JFonSm-kcs3Ks2VPjuJtl9iYw5VQAqDDRBqnifoYl4s8fdwb8bf3AQsqUjzDT6xEJ1faI_FXDU50mMFZaIAGwNc_klk-IVtvdRCe_UnBpz6W4QpoO_hFcgaTYa/s1600/cover.png",
@@ -942,7 +942,7 @@ window.novelData = [
           "Age Gap"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhet0aooaZ2rSYN-VtvK2X5Ulj_-7OePMZLNgMv6u3rYpKANYYNrnrUs1V_b2k_z1wR0Lax5ePp7QcyEiPpP-HjfE6ATHFGgQSa85Xf42fXC7wvoG16iVyZPys8lYDgZglbbxraHsFlPjCTrBERW30XkABVut2bHWRzlyBG17b7yZs3EbGGOiYbrEVukP-D/s1600/ex%20Cover%20%281%29.png",
@@ -970,7 +970,7 @@ window.novelData = [
           "Shounen"
         ],
         "type": "Manga",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7tNjrK4YbTr22XFYXPR3GBCECaq-hBlx5cD4_W4o1HOgJOKPyL58ImZt-wO1-X9-3vLZ9o5L2aQPoOTc4tpSkePXyMJBzcVZBsxQUb9ewPlvqp_26ku-ZPNaRoXGSkxN-IUUQyGQ2ahsyo8DwNwmGtmJzq1I2GhZM2TyymI9qH7Z3RtnspgjFGKEkxSM/s1600/cover.png",
@@ -1012,7 +1012,7 @@ window.novelData = [
           "Shoujo"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwd2kDcgx8fthVaOa10fnNjwOH97-qOmXm5F33e4QRA8GpzPXvq8aawNWrjnD_K-JdG43eowX1AsytMaev0sVjeMohFuZVMbDdA6Q80LgiqGaHdyo1Lysz3Uob8lKRyGJ21XoGgBg7ADqIm-VXWjxlPsAeDJodTcaOdu5QJ3F1ILUgYex4cDdoMLc4nOCA/s1600/cover.png",
@@ -1024,7 +1024,7 @@ window.novelData = [
           "Tokusatsu"
         ],
         "type": "Manga",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbpdkGmsAchUv_Bta_FOQiqDjJkniTJeSp-FzWWVGbeWn_JQzDTCegjOBR1io0euIUXgPgyft8__LD2CsFGCznhE-wcDf8qVDWUMfSYHSqfN_DQz9CWj6KmCTshPVXVbD9gWt0tR__-maEmCivMifbDekl_TkDt8pJGs48iDngRp_LHGqTr0c6BAz2fR2/s1600/cover.png",
@@ -1037,7 +1037,7 @@ window.novelData = [
           "Shoujo"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhydv6oVHkCS6E-cCK-sT638_8tP3LQIBg_IUcRxcTZoVEDVr65I56KH7hXAMM7ZS2iT0faJB2zDEVsK2l6RNsvAnIWGmjIL0dy-yUWZax9-m4T6ZSNtKZpzXKEGePC54zRU_MMDo30-2ENmxNMlCGZjjPOqBWwE6wKdA3OTd3HLmNL7AzgOA6QwAmAZYP7/s1600/cover.png",
@@ -1051,7 +1051,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgznJFVjRyoA1gKxknxT6EvG0Y-2TO80y1PlURH9orWp430NKkdJTs3eNXphxk6O4gbRDksB0Lpf7tRkTKZ2iPARkMhKo61hlSkYdMLbXZbs_M_wGq7mcZD8OhszvWceYUjgHnGBykh8TCDQKfu5K_N_K_QeJ266rio39ypRsKppkQuAuOSB4VoHiHB88eq/s1600/cover.png",
@@ -1066,7 +1066,7 @@ window.novelData = [
           "Pure Diabetes"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfvy-_4LNL4ZxyMx-FyT1IPb-Kpfuq3_j5MfFZ-A9njsJykvDDP9EfYUuB7ZN-_idZmYQnLFfjOBxeG4tjci3dc305W8601Hd2QaUPwNoiqBPXKApbFN5IBAw1xMzPxRSRC9jrOsyH5dH6VA9xlG9DVEdiMX_3DR9udLd08_zd30W5HKG5KQfGoqMphI4A/s1600/love%20villainess%20Cover%20%281%29.png",
@@ -1081,7 +1081,7 @@ window.novelData = [
           "Pure Diabetes"
         ],
         "type": "Web Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1wnSTfjc3a77gIYGExsWCalgwq7KByV0Ie1K945bZYlxEwVvjD7zD8yhkYZew9xNwQb-H7ajhuvFG859Js7-X9CUuDWQ_Y90UXGm5czQm0QUHMA-Cfon_-L-a-ejAjyHgW2JB52aWGNv0zpOdfpuli-mQkSUfcJ31_FiUZ6m7DDmnKZtydK1FtJylPdx/s1600/introverted%20self%20Cover.png",
@@ -1097,7 +1097,7 @@ window.novelData = [
           "Doting Love"
         ],
         "type": "Web Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikRQY1j-K1tWG5BupFV9n2AqU5uzt4MSSeZT2g5IaMlsgys0Jw-2QnTowR6jZlrbZCXkCfxaEY00emLZPBVMEWkCjXw0JHofmEtnhS5daZ9-3NwmHTHGUh8FZ3mpdU0oKJTIESZcH7WAaHuXvDUydaTJ_5g8UYBeoIdtulsieHcWjtqR_AVdgZ4s0fnciw/s1600/Plain%20Guy%20Cover%20%281%29.png",
@@ -1114,7 +1114,7 @@ window.novelData = [
           "RomCom"
         ],
         "type": "Web Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX6NsdeqqM-XUVt1RiT-kHtl2bvz-T8XOs9jy5ACyMpmz3XAhyphenhyphen-3It1mU9E-sJ8DIIUduKd3OcpcORPPDhXC5AG8GM-aMVlICW_eP3K0vkrad1uBVy7VlTUsiyv1dffbI5JFIlWhxo-cDvw7Zaf7yKLjI6IidFdYJrUMKL8mAqX3dDrNwMVdZ8Fkz5lEF/s1600/cover.png",
@@ -1143,7 +1143,7 @@ window.novelData = [
           "Ecchi"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzocJQPPmTlg7Xmij4CtG-nA275_dLEio5mjdtBiyz13WezABlTX8WbH0IB6TSk0w5AXihMmwB-v09WTwoJEmKQwgRHlEI73N6EOj2vPBdEDrKVsYl9SbuPBw6ZuPZ58meUMYtniq1NmLIXfpLlpldLj6B9iNjUm3vAHgYaxT29oltvYC1seIYoHADvst/s1600/cover.png",
@@ -1173,7 +1173,7 @@ window.novelData = [
           "Problem Solving"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDMVQ3pR2pbu3uY_TYc6bfSKiYlYycqKwBN_a4Ree9fEigiZojgjaqDorwEVOb6f3NBTauNAdk869RstETUnupb1TeYENLCvGNUN1boA59zgqeibmlGe4pLVO4Z24lxPyc7VWKKEO2Kwugk5FlxG9P94u5OS1ClUt8jA9CLNQgwfTsfQRrs9HvwcJah4eZ/s1600/cover.png",
@@ -1187,7 +1187,7 @@ window.novelData = [
           "R18"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSy6_dMgOtSKDHlKGLnzI_8lT57vJU1Hn2k4FDHywf9at_e8Vkh6DyLMRczdAX2MSGnbdhA5EnWjdjZPJ044fysCdbG3lLOfghH2uCJbLH_BuFw9-BNj2j94QSMtnYv2E_QA1SFOOSDeBZvL-J-iidafIsIbSwSmq1S8kyaHqT4InGVxGWL69f4venCyQi/s1600/Yandere%20Hero%20Cover.png",
@@ -1201,7 +1201,7 @@ window.novelData = [
           "Yandere"
         ],
         "type": "Web Novel",
-        "status": "Ongoing"
+        "status": "On-going"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTERRqL35Muy2i_4ZWu3FWyZ-GOcktTk-ZwN85uu0geZnT1S-1tn6zRmjYd9sl3qxMpwmpfK9Erxr4eyn6a2Xm5JeUEAnCa47jL-ahWOzm8pXbFJDpuYl15bxhGfDrpNWRLxLzGAUWY7DfAv-eF-nIOHcSxZ1lFj1L0IKTNSQKnhiUJxFkAntXo-4R8VZ/s1600/cover.png",
@@ -1215,7 +1215,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "Ongoing",
+        "status": "On-going",
         "recommended": true
       },
       {
@@ -1588,5 +1588,21 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJKJGCS2nD-VnyqjA2uNgECCsr4u8m6txTHY6uw8UeQ3Ec1LdTELV6x2n5wFE_rdzwx2s569yNlrrFCFAff6M9Ufu8VGMVc5cP35ttJ7w31Rzh4WX2c3PwUDqE7Tvzp1PpTYf80PhMZqJntlPKJFj3-KKwUMdT9WGsO6o_Cv_3iHG5DZbJeMv7QUaXdAzz/s1600/cover.png",
+        "title": "My Girlfriend Keeps Pushing a Harem on Me",
+        "link": "https://yukikitsuneko.blogspot.com/p/my-girlfriend-keeps-pushing-harem-on-me.html",
+        "genre": [
+          "Comedy",
+          "Romance",
+          "Harem",
+          "Mature Romance",
+          "Adult Humor",
+          "Pure Love",
+          "R18"
+        ],
+        "status": "On-going",
+        "type": "Light Novel"
       }
     ];
