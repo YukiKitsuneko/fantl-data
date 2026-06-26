@@ -1604,5 +1604,23 @@ window.novelData = [
         ],
         "status": "On-going",
         "type": "Light Novel"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFiVr-uGQNFaLfJcxE03ZRORmBoCxwmqD808Gx7YD-kc6CiSH1kVp-uFRz6qstv5fFVrVkOG3vgVWZkxSKAF6xwX4IMqxtueK5ETN-CYXqobrnyUn18_w7phfblXXoF8bDDFim6GKx44wnyE6mzkx5jmoiIebNuLwbEXeEZ7tBnQKi3rda2_E2dsOelu9Y/s1600/cover_hastag.png",
+        "title": "#Secretly Looking to Connect with Rom-Com Fans",
+        "link": "https://yukikitsuneko.blogspot.com/p/secretly-looking-to-connect-with-rom.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Slice of Life",
+          "School Life",
+          "Pure Diabetes",
+          "Slice of Life",
+              "Friends to Lovers",
+              "Slow Burn",
+              "Oblivious Couple"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
