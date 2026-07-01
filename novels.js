@@ -1622,5 +1622,26 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmJe6lq_JGtAVclg1Tmp3Tee7IacidbTuKNhChOQ3MMSb2ixQigXS8wDiD0Yog6kPA6jePw4nqGRCMZrAIdApdlN14pjGhmrxxMIvO3yC719G3OKF6kiK_uVOEpBDOw5Xjm0DKTGEYhYJU6xu2jUV0gNlYz2Co0EUzMcV2cYfDIdlWmuG-cuyiXnriY15/s1600/cover.png",
+        "title": "After I Became the Housekeeper for the Cool Beauty in My Class, She Started Asking Me What’s for Dinner Every Day",
+        "link": "https://yukikitsuneko.blogspot.com/p/fujisaki-san.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Slice of Life",
+          "School Life",
+          "Pure Diabetes",
+          "Slice of Life",
+              "Cooking",
+              "Housework",
+              "Secret Relationship",
+              "Cool Beauty",
+              "Gap Moe",
+              "Wholesome"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
