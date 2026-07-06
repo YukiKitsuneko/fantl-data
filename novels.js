@@ -1643,5 +1643,23 @@ window.novelData = [
         ],
         "type": "Light Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixAgV_tMWsInN2QnDT3XhQIdEqB-vhwpfOiM_i3Ho9z8UODQPmhYW7Rkjf3EJ_JZ0497_q_5X-djpfKLU6_xbjrwXOJ_n7JoxFLo0TGXqiyZchJo34hrDVhxfEenzN8teD_dJveiXkmjpM8L4vmACudnSDduRz-XSQChr93H1CcrpmCMY-aQ4tM_eAgbqD/s1600/cover_bs.png",
+        "title": "The Exiled Black Swordsman Wants to Live a Slow Life on the Frontier with the White Saintess",
+        "link": "https://yukikitsuneko.blogspot.com/p/the-exiled-black-swordsman.html",
+        "genre": [
+          "Romance",
+          "Fantasy",
+          "Slow Life",
+          "Wholesome",
+          "Overpowered Protagonist",
+          "Frontier",
+              "Serves You Right",
+              "Rise to Power",
+              "Cheat Ability"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
