@@ -1040,7 +1040,7 @@ window.novelData = [
         "status": "On-going"
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhydv6oVHkCS6E-cCK-sT638_8tP3LQIBg_IUcRxcTZoVEDVr65I56KH7hXAMM7ZS2iT0faJB2zDEVsK2l6RNsvAnIWGmjIL0dy-yUWZax9-m4T6ZSNtKZpzXKEGePC54zRU_MMDo30-2ENmxNMlCGZjjPOqBWwE6wKdA3OTd3HLmNL7AzgOA6QwAmAZYP7/s1600/cover.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTtbixHgmTtCP5j8gV9Ocrj2ztetITMmg1WEgxDRWf2-z92cVHebVDdTxxFxCQE3Xqr1rTSlWdJ1-WR_IgM4Pl7U4plCbmFV_XBEF3PIxN4JqAW21k9tx_86ZbILBwTVUlCYM5wDUbOgjK230YfInAzhRvtWsQJ6C1BQYbYVRFK_nt5OPefAsfjM7r4_6L/s1600/cover.png",
         "title": "Fixing a Gal’s Bike Made Her Weirdly Attached to Me",
         "link": "https://yukikitsuneko.blogspot.com/p/fixing-gals-bike.html",
         "genre": [
