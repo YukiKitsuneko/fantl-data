@@ -580,7 +580,7 @@ window.novelData = [
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha8Rl5ZPCXdwHFpliaVTIrF1FTf6npwoxM2xxgXPciVqeMmT-EmVx_76r49rTPX46A9uTCx1Q_g1gOhQgRHULRuDgSAOvR8NBC6QmqM-6njSNQinoGfM2i8F6GaPkfyrW2TAsRPNhFB992kIoIWFXcke2fP-Ki1Ca8ItYSsyMEQcvXyPIRCRMFAZrhZq8k/s1600/cover.png",
         "title": "Hiyori-chan’s Wish Is Absolute: When She Wishes Upon a Planet",
-        "link": "https://yukikitsuneko.blogspot.com/p/shimotsuki-san-loves-mob.html",
+        "link": "https://yukikitsuneko.blogspot.com/p/hiyori-chans-wish-is-absolute.html",
         "genre": [
           "Mystery",
           "Romance",
