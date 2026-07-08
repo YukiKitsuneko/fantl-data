@@ -1659,7 +1659,7 @@ window.novelData = [
               "Rise to Power",
               "Cheat Ability"
         ],
-        "type": "Light Novel",
+        "type": "Light/Web Novel",
         "status": "On-Going"
       }
     ];
