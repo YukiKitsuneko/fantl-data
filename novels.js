@@ -1,13 +1,22 @@
 window.novelData = [
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOAE_yZl-sZ1slLxSXMaAgZX-9pUfCrvAf7594NcJa-X7w6ix2pgVAs5g64dxIEciceUDqfS5wDp2Ft8BYCJ2OV15kXM6qJ6nlLewblTstnSda0ttOiMymA0_C-2bUlZm76zYrI0Y3J2z1a1_fRulhX0PmKE7zqqz-sbnM7F0I7R-XAXbaKqjH3SxxaalP/s1600/cover.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ0Jm1f-RsAaa4pfLnesj2siYmb45bEgw5GYpEVFLNtdqNGFW-SPDh3MvyAg_6rGg9AMdArVSQaReAysqUyvvXg2BtSzLVM5Wl9l0JVvFFb0Fh7K0YFBe0QLGFBKNfuqUCUHtVDzHDIBl2aGVvAcQzMnBamDMM2AvL8L98aWZT9GBzF-6HJE1BVQvX7McF/s1600/cover.png",
         "title": "Secretly Holding Hands with You Behind Our Friends’ Back. Falling in Love That Cannot Be Told to Anyone",
         "link": "https://yukikitsuneko.blogspot.com/p/tomodachi-no-ushiro.html",
         "genre": [
           "Drama",
           "Romance",
           "School Life",
-          "Psychological"
+          "Psychological",
+              "Slice of Life",
+              "Yandere",
+              "Coming of Age",
+              "Obsessive Love",
+              "Secret Relationship",
+              "Unrequited Love",
+              "Friendship",
+              "Jealousy",
+              "Love Triangles"
         ],
         "type": "Light Novel",
         "status": "Completed",
