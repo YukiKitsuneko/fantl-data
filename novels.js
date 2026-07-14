@@ -574,19 +574,6 @@ window.novelData = [
         "type": "Light Novel"
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_TfaH7KEV4jnj19hebHVfw5M7P7K9HXKK8TQZReBiWFidxS_XZxCKYynuwVT0j789CRKTAlCF1DSZHpbek7yzAu6J9LOMEFQjz-EKCSg1NaWy36DFDv4_83P2k6YReI7yBpNbMuEzYuHJgqkF3LeE_YjsGIYWQwgtGfzt-HUfxX4UfZ8Ffo4jy4K_3PG0/s1600/cover.png",
-        "title": "Shimotsuki-san Loves The Mob",
-        "link": "https://yukikitsuneko.blogspot.com/p/shimotsuki-san-loves-mob.html",
-        "genre": [
-          "Comedy",
-          "Romance",
-          "School Life",
-          "Yandere",
-        ],
-        "status": "Completed",
-        "type": "Light Novel"
-      },
-      {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha8Rl5ZPCXdwHFpliaVTIrF1FTf6npwoxM2xxgXPciVqeMmT-EmVx_76r49rTPX46A9uTCx1Q_g1gOhQgRHULRuDgSAOvR8NBC6QmqM-6njSNQinoGfM2i8F6GaPkfyrW2TAsRPNhFB992kIoIWFXcke2fP-Ki1Ca8ItYSsyMEQcvXyPIRCRMFAZrhZq8k/s1600/cover.png",
         "title": "Hiyori-chan’s Wish Is Absolute: When She Wishes Upon a Planet",
         "link": "https://yukikitsuneko.blogspot.com/p/hiyori-chans-wish-is-absolute.html",
