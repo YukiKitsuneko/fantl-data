@@ -308,7 +308,7 @@ window.novelData = [
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugz4HjcbPfGFqzEG416uFYkj5djVj0UgdwiPaNYOHyOV6U2vMxahhg256B6Ee1xxrM9oWxJCU0U9wgKHjSiubhaBT-ripEw-YBPSM_qoimK45-XM3fhuhyphenhyphenQQNZsvLQgcS7VB0Ayz2Sqfsg0AQXVnzr14Pqt-UX19W85FEYR47DhUnECKjBJDXUL2SZ8BO/s1600/cover.png",
         "title": "Pass the Monster Meat, Milady!",
-        "link": "https://yukikitsuneko.blogspot.com/p/gyaru-fiancee.html",
+        "link": "https://yukikitsuneko.blogspot.com/p/pass-monster-meat-milady.html",
         "genre": [
           "Romance",
           "Comedy",
@@ -560,7 +560,7 @@ window.novelData = [
         "type": "Light Novel"
       },
       {
-        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjas93eeVP6cR9rXCa3YL1yYD5ZEISZ355nixcSJPG2Z-k7H2ybNltirTCoQu_tQFKzxyjcXDswfbH8SViLGIeNzMlWy9HrzFaDcCBCrvrXGNgd_q3h-YIhf-_PT3DeWIxMi8611-4LFf9e2xWzFiwSNqlMOPNViIHAjsfkFYK1A8pK0TN61ThxX7awsQRT/s1600/cover.png",
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_5CWwfmLT0ttR7SFhsL5bYkUYr8tXvQv2FLvY6T8NhK-89trByUylnvf_2_CEAbfsyWbUs4MeYPQGnTuCs2kVO_ve5rrMQgTxrqSLXeeCW7qa-WIVrdwamiGxEObaDyMHutkT4V8hIgwrw10tbL1v_bqs-8cr-I1pL0NJESMcAi2Lu7LyP7CzV1YVtAEk/s1600/cover.png",
         "title": "Noblesse Replica: The Former Aristocrat-Killer Child Soldier Is Reluctantly Enrolled in a Military Academy for the Gifted",
         "link": "https://yukikitsuneko.blogspot.com/p/noblesse-replica.html",
         "genre": [
