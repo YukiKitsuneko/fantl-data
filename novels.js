@@ -732,7 +732,7 @@ window.novelData = [
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYEDHDPRw1f7UmIhvbXHjdC2j4o1fGXvTHlKIITv0wtuhC9Kfold_MZJfqP3s-tCjPCCVz1Q3d81jhvOInY3DCV6_HqJCtQlbKsAqK-6pAhpw5XLXSQ1EqrLlpA8Q2t2h1auybIeeqz69XTfijQWDFFiRcRLB0Mz6NnvLyfgMhzHcPGyQ5LtlhEUB6DWes/s1600/perfect%20girl%20Cover.png",
         "title": "The Perfect Girl on Top of the School Caste Won't Deny the Rumor That She's Dating Me",
-        "link": "https://yukikitsuneko.blogspot.com/p/after-hostage-period-ended.html",
+        "link": "https://yukikitsuneko.blogspot.com/p/perfect-girl.html",
         "genre": [
           "Comedy",
           "Romance",
