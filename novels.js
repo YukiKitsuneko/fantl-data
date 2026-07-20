@@ -730,6 +730,20 @@ window.novelData = [
         "type": "Web Novel"
       },
       {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYEDHDPRw1f7UmIhvbXHjdC2j4o1fGXvTHlKIITv0wtuhC9Kfold_MZJfqP3s-tCjPCCVz1Q3d81jhvOInY3DCV6_HqJCtQlbKsAqK-6pAhpw5XLXSQ1EqrLlpA8Q2t2h1auybIeeqz69XTfijQWDFFiRcRLB0Mz6NnvLyfgMhzHcPGyQ5LtlhEUB6DWes/s1600/perfect%20girl%20Cover.png",
+        "title": "The Perfect Girl on Top of the School Caste Won't Deny the Rumor That She's Dating Me",
+        "link": "https://yukikitsuneko.blogspot.com/p/after-hostage-period-ended.html",
+        "genre": [
+          "Comedy",
+          "Romance",
+          "Slice of Life",
+          "School Life",
+          "Pure Diabetes"
+        ],
+        "status": "Completed",
+        "type": "Web Novel"
+      },
+      {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGOwqqj3TJup2tyi6vOPxsmo9St9LtJqk9DhP8BJwgv2qOE64ujaR7bBuwv5Un5JS3yGwp_gu4cqDnu54KBLWWER_cAymrm8KZfK9uGmDfhLXJPgaqolTwdBK3HOH8uKzIJXt4ce48AbTGftgtJChSfJ_9UXe6U5UrgU5ZgPyu_7Me6mQD9Y8sc1numM81/s1600/rejected%20by%20chf%20Cover.png",
         "title": "Rejected by My Childhood Friend, Now the Blonde Beauty in My Class Is Going Full Throttle to Make Me",
         "link": "https://yukikitsuneko.blogspot.com/p/rejected-by-my-childhood-friend.html",
