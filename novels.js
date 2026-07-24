@@ -1671,5 +1671,34 @@ window.novelData = [
         ],
         "type": "Light/Web Novel",
         "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1fvAJo9DL0uWc2W8D9Sxk9BnRl-Eep3r9sQzeh8Udd6o3uffMEHl2nqfmhs2O9xtDLnMkuvA2SpDvBkzw4GzEk0Ki3L-685vyULx3TDMHTZ6A07GjSNNRvQYhsRx0T51Op6ZToNuaXl_LPUMI-eNZlYbJEHVfVS1j4_Ae7iAvawXaBUoa6caDcf1kF0Bi/s1600/cover.png",
+        "title": "My Little-Devil Kouhai Is Cute in Real Life, but Even Cuter in My Dreams",
+        "link": "https://yukikitsuneko.blogspot.com/p/my-little-devil-kouhai-is-cute-in-real.html",
+        "genre": [
+          "Romance",
+              "Comedy",
+          "School Life",
+          "Supernatural",
+          "Slow-Burn Romance",
+          "Fluffy Romance",
+          "First Love"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vtzPg59lrwhC_s4d2d6xez42gMFstLs4KASZRY0dEhDrFKmWQqSD78uhwWfY6rkQbHVyeYpFIYqZDjzO-jpTwWO5mnRygUmfUpWBUXjoP2mixeNpM8TwPd3UxLeM1o1uIsQYYVkyr9_hET57jct_yv2hQouSSAUb01bqntj7sCZ5d1zP6UGrfGtMQ0qI/s1600/cover.png",
+        "title": "How to Pick the No. 1 Pair in a Class Full of Gorgeous Guys and Girls",
+        "link": "https://yukikitsuneko.blogspot.com/p/top-pair-in-class.html",
+        "genre": [
+          "Romance",
+              "Comedy",
+          "School Life",
+          "Youth"
+        ],
+        "type": "Light Novel",
+        "status": "On-Going"
       }
     ];
