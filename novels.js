@@ -262,7 +262,7 @@ window.novelData = [
           "Time Travel",
           "Yandere"
         ],
-        "status": "Completed",
+        "status": "Ongoing",
         "type": "Web Novel"
       },
       {
@@ -657,7 +657,7 @@ window.novelData = [
           "Isekai",
           "Harem"
         ],
-        "status": "Completed",
+        "status": "Ongoing",
         "type": "Web Novel"
       },
       {
@@ -740,7 +740,7 @@ window.novelData = [
           "School Life",
           "Pure Diabetes"
         ],
-        "status": "Completed",
+        "status": "Ongoing",
         "type": "Web Novel"
       },
       {
@@ -1833,7 +1833,7 @@ window.novelData = [
           "Partial Use of AI in the Main Text"
         ],
         "type": "Web Novel",
-        "status": "Completed"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSqcGULJEfjKGe1lKfXDH1JqSQbqZcg1yp6-bclLpG38W69ApgrBp3Y9mkrBI4cdICJBY-gpkyO1wABJsR6-2ZuhaoDFLmJXs7jr96kzbG6_PgT1-gFQndgSC0ltAs5CXUy3ADYsT4tK7b5QKZ2VtSVihKhVI7U_VrBUOC-ePMHL4aosBq6By99tRCzuiV/s1600/cover.png",
