@@ -1354,7 +1354,7 @@ window.novelData = [
           "Ecchi"
         ],
         "type": "Light Novel",
-        "status": "Ongoing"
+        "status": "Completed"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTWnwbCohIAmjtvMfPA3Lp6gGZC0U3f7NoG57oCL6ulETGQ-H0RQ9NKbeTtKnQURZ6PMnh6OmAvuIOhIqmF5sF0R30pNZrdWh5tOUA71mlLvmY7Yu5MzEwAcWV4sMssgCVaLSepmtyRx4cAftyWKgURCRTxYPzeG6ctkzaE_BIuxpK7JRsjlT64psWFHB/s1600/cover.png",
