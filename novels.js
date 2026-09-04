@@ -34,7 +34,7 @@ window.novelData = [
           "Psychological",
           "Netorare"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -59,7 +59,7 @@ window.novelData = [
           "Comedy",
           "Romance",
           "School Life",
-          "Childhood Friends"
+          "Childhood Friend"
         ],
         "status": "Completed",
         "type": "Light Novel"
@@ -74,7 +74,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -87,7 +87,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -133,7 +133,7 @@ window.novelData = [
           "Romance",
           "Supernatural"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -150,7 +150,7 @@ window.novelData = [
           "Tragedy",
           "Psychological"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Web Novel"
       },
       {
@@ -166,7 +166,7 @@ window.novelData = [
           "School Love",
           "University Student"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Web Novel",
         "recommended": true
       },
@@ -185,7 +185,7 @@ window.novelData = [
           "Psychological",
           "Mystery"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel",
         "recommended": true,
         "staffPick": true
@@ -221,7 +221,7 @@ window.novelData = [
           "Slice of Life",
           "Time Leap"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light/Web Novel"
       },
       {
@@ -234,7 +234,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light/Web Novel"
       },
       {
@@ -289,7 +289,7 @@ window.novelData = [
           "Harem",
           "Ecchi"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel",
         "recommended": true
       },
@@ -314,7 +314,7 @@ window.novelData = [
           "Comedy",
           "Fantasy"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -327,7 +327,7 @@ window.novelData = [
           "Comedy",
           "Working Adults"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -340,7 +340,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -353,7 +353,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -366,7 +366,7 @@ window.novelData = [
           "School Life",
           "Slice of Life"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -395,7 +395,7 @@ window.novelData = [
           "Ecchi",
           "Psychological"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel",
         "recommended": true
       },
@@ -414,7 +414,7 @@ window.novelData = [
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNHKItZUOj63g9x-ffAJkNonFgbFGAGPYrr4bq3jwg3xWOWrmV2t276lGsJwN4d2MBxCwFV8qkBbHx26jhlcSKFPbUKe3HCwqzItN10_-2_eDRC9ORJBiZxvNnhe0GDqDkZEGgf2XJv3ULY5hfd2j8DSkBa25Jg84EFNXQh26XZjWhNh_swxpbVO-j_F05/s1600/Cover.png",
-        "title": "Just Get Married Already! There Are Three Girls People Say THat To, You Know?",
+        "title": "Just Get Married Already! There Are Three Girls People Say That To, You Know?",
         "link": "https://yukikitsuneko.blogspot.com/p/you-guys-should-get-married-soon.html",
         "genre": [
           "Comedy",
@@ -422,7 +422,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -448,7 +448,7 @@ window.novelData = [
           "Comedy",
           "School Life"
         ],
-        "status": "Oneshot",
+        "status": "One Shot",
         "type": "Light Novel"
       },
       {
@@ -475,9 +475,9 @@ window.novelData = [
           "Ecchi",
           "Doting Love Interest",
           "Pure Love",
-          "R18"
+          "R-18"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -490,7 +490,7 @@ window.novelData = [
           "School Life",
           "Ecchi"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -515,7 +515,7 @@ window.novelData = [
           "Romance",
           "School Life"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -542,7 +542,7 @@ window.novelData = [
           "School Life",
           "Fantasy"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -556,7 +556,7 @@ window.novelData = [
           "Fantasy",
           "Yandere"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -570,7 +570,7 @@ window.novelData = [
           "School Life",
           "Romance"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -612,7 +612,7 @@ window.novelData = [
           "Slice of Life",
           "Yandere"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -642,7 +642,7 @@ window.novelData = [
           "Doting Love",
           "Diabetic"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Web Novel",
         "recommended": true
       },
@@ -711,7 +711,7 @@ window.novelData = [
           "School Life",
           "Harem"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -768,7 +768,7 @@ window.novelData = [
           "Gal",
           "Cohabitation"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light/Web Novel"
       },
       {
@@ -782,7 +782,7 @@ window.novelData = [
           "Drama",
           "Ecchi"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -795,8 +795,7 @@ window.novelData = [
           "School Life"
         ],
         "status": "Completed",
-        "type": "Light Novel",
-        "status": "Completed"
+        "type": "Light Novel"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizt6eDE26HpmPc1ANKDD-Qtt6mV2HYTpXtUx0YRdf1ds9niSgnmu5T_-jzWycwtZxHA-UApQK0BfCVKmgDeSBKOqlFdZQHiZumuhZu_iPBt1UsfI3ZdmamOsEfK3Kl9IikImtgH2QnIgLLjdCAfMyXRFDYgrmSYJyXzTRqDJLvgfbrxZqnp3WggW6PT4uJ/s1600/If%20You%20Call%20This%20Marriage%20a%20Sham,%20Then%20So%20Be%20It.png",
@@ -809,9 +808,8 @@ window.novelData = [
           "Office Love",
           "Slice of Life"
         ],
-        "status": "On-going",
-        "type": "Web Novel",
-        "status": "On-going"
+        "status": "Ongoing",
+        "type": "Web Novel"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDRfk_wUq-CLLpQ1LJdHCYj8DsP-mgdlz0ZFqiAq9wPtJ1bthoH4AQmmJQpO2AbBsA1Mu_0VV6ET35lDDpnj5iTCcvKzhw2aOFw1JMDAJN5xTXwRBFgGoq5hcrkqlfq_qBJmM2pxmvq70Arfn-ZVGH8OlBYf0c_qk231iC83_cqRcFkXQCjAjLv1O5JVC/s1600/Walking%20With%20The%20Beautiful%20Girl%20After%20School.png",
@@ -823,7 +821,7 @@ window.novelData = [
           "School Life",
           "Pure Diabetes"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Web Novel",
         "recommended": true
       },
@@ -838,7 +836,7 @@ window.novelData = [
           "Tsundere"
         ],
         "type": "Web Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmlwUFalNoRPoc3nLd9I23nsrcnBk1OE05uzL7IvPm9uhDDSYDp7a-QoS_-wq1tsMW2nd18GjxRfSREkJ_DJ9d2-VFah1Oi38r1BBJ1lzC96QFXEYiMQtv86IbI9-Rr5MG35MRGQ3a8Z67AgbvgMoh8n9j1HmboiCs7xIupCY9unEJNjI3U-yAUdDV1Wt/s1600/Villainess%20Office%20Lady.png",
@@ -912,7 +910,7 @@ window.novelData = [
           "Bickering Couple"
         ],
         "type": "Manga",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6CHTIzqqHg7FnG4N8A96TDHiPRaSq-JZgMFsr58pMEnQ88rI7q3QK6zYWz-_uhk0_M9n1bz1ZLYeu_af7Vydby0dmFC1l8Cx-G91FcGfvTdzRhwRG1_Rxhqr6Nuzaq1SWcmd_Wipo7349m3UrQox2T0FhRNMnBJ6vmR4UTczxX58_Cms-P5sNF6GdsTQl/s1600/cover.png",
@@ -939,7 +937,7 @@ window.novelData = [
           "Adult"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrH_JuJsVjGbjNCofN_kWmZr0yKKGWMRg7A85IO2TtkMRaO8ZoAEQyKanmUGY2xEEho5JFonSm-kcs3Ks2VPjuJtl9iYw5VQAqDDRBqnifoYl4s8fdwb8bf3AQsqUjzDT6xEJ1faI_FXDU50mMFZaIAGwNc_klk-IVtvdRCe_UnBpz6W4QpoO_hFcgaTYa/s1600/cover.png",
@@ -952,7 +950,7 @@ window.novelData = [
           "Age Gap"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhet0aooaZ2rSYN-VtvK2X5Ulj_-7OePMZLNgMv6u3rYpKANYYNrnrUs1V_b2k_z1wR0Lax5ePp7QcyEiPpP-HjfE6ATHFGgQSa85Xf42fXC7wvoG16iVyZPys8lYDgZglbbxraHsFlPjCTrBERW30XkABVut2bHWRzlyBG17b7yZs3EbGGOiYbrEVukP-D/s1600/ex%20Cover%20%281%29.png",
@@ -980,7 +978,7 @@ window.novelData = [
           "Shounen"
         ],
         "type": "Manga",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE7tNjrK4YbTr22XFYXPR3GBCECaq-hBlx5cD4_W4o1HOgJOKPyL58ImZt-wO1-X9-3vLZ9o5L2aQPoOTc4tpSkePXyMJBzcVZBsxQUb9ewPlvqp_26ku-ZPNaRoXGSkxN-IUUQyGQ2ahsyo8DwNwmGtmJzq1I2GhZM2TyymI9qH7Z3RtnspgjFGKEkxSM/s1600/cover.png",
@@ -1022,7 +1020,7 @@ window.novelData = [
           "Shoujo"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwd2kDcgx8fthVaOa10fnNjwOH97-qOmXm5F33e4QRA8GpzPXvq8aawNWrjnD_K-JdG43eowX1AsytMaev0sVjeMohFuZVMbDdA6Q80LgiqGaHdyo1Lysz3Uob8lKRyGJ21XoGgBg7ADqIm-VXWjxlPsAeDJodTcaOdu5QJ3F1ILUgYex4cDdoMLc4nOCA/s1600/cover.png",
@@ -1034,7 +1032,7 @@ window.novelData = [
           "Tokusatsu"
         ],
         "type": "Manga",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDbpdkGmsAchUv_Bta_FOQiqDjJkniTJeSp-FzWWVGbeWn_JQzDTCegjOBR1io0euIUXgPgyft8__LD2CsFGCznhE-wcDf8qVDWUMfSYHSqfN_DQz9CWj6KmCTshPVXVbD9gWt0tR__-maEmCivMifbDekl_TkDt8pJGs48iDngRp_LHGqTr0c6BAz2fR2/s1600/cover.png",
@@ -1047,7 +1045,7 @@ window.novelData = [
           "Shoujo"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTtbixHgmTtCP5j8gV9Ocrj2ztetITMmg1WEgxDRWf2-z92cVHebVDdTxxFxCQE3Xqr1rTSlWdJ1-WR_IgM4Pl7U4plCbmFV_XBEF3PIxN4JqAW21k9tx_86ZbILBwTVUlCYM5wDUbOgjK230YfInAzhRvtWsQJ6C1BQYbYVRFK_nt5OPefAsfjM7r4_6L/s1600/cover.png",
@@ -1061,7 +1059,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgznJFVjRyoA1gKxknxT6EvG0Y-2TO80y1PlURH9orWp430NKkdJTs3eNXphxk6O4gbRDksB0Lpf7tRkTKZ2iPARkMhKo61hlSkYdMLbXZbs_M_wGq7mcZD8OhszvWceYUjgHnGBykh8TCDQKfu5K_N_K_QeJ266rio39ypRsKppkQuAuOSB4VoHiHB88eq/s1600/cover.png",
@@ -1076,7 +1074,7 @@ window.novelData = [
           "Pure Diabetes"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfvy-_4LNL4ZxyMx-FyT1IPb-Kpfuq3_j5MfFZ-A9njsJykvDDP9EfYUuB7ZN-_idZmYQnLFfjOBxeG4tjci3dc305W8601Hd2QaUPwNoiqBPXKApbFN5IBAw1xMzPxRSRC9jrOsyH5dH6VA9xlG9DVEdiMX_3DR9udLd08_zd30W5HKG5KQfGoqMphI4A/s1600/love%20villainess%20Cover%20%281%29.png",
@@ -1091,7 +1089,7 @@ window.novelData = [
           "Pure Diabetes"
         ],
         "type": "Web Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1wnSTfjc3a77gIYGExsWCalgwq7KByV0Ie1K945bZYlxEwVvjD7zD8yhkYZew9xNwQb-H7ajhuvFG859Js7-X9CUuDWQ_Y90UXGm5czQm0QUHMA-Cfon_-L-a-ejAjyHgW2JB52aWGNv0zpOdfpuli-mQkSUfcJ31_FiUZ6m7DDmnKZtydK1FtJylPdx/s1600/introverted%20self%20Cover.png",
@@ -1107,7 +1105,7 @@ window.novelData = [
           "Doting Love"
         ],
         "type": "Web Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikRQY1j-K1tWG5BupFV9n2AqU5uzt4MSSeZT2g5IaMlsgys0Jw-2QnTowR6jZlrbZCXkCfxaEY00emLZPBVMEWkCjXw0JHofmEtnhS5daZ9-3NwmHTHGUh8FZ3mpdU0oKJTIESZcH7WAaHuXvDUydaTJ_5g8UYBeoIdtulsieHcWjtqR_AVdgZ4s0fnciw/s1600/Plain%20Guy%20Cover%20%281%29.png",
@@ -1124,7 +1122,7 @@ window.novelData = [
           "RomCom"
         ],
         "type": "Web Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJX6NsdeqqM-XUVt1RiT-kHtl2bvz-T8XOs9jy5ACyMpmz3XAhyphenhyphen-3It1mU9E-sJ8DIIUduKd3OcpcORPPDhXC5AG8GM-aMVlICW_eP3K0vkrad1uBVy7VlTUsiyv1dffbI5JFIlWhxo-cDvw7Zaf7yKLjI6IidFdYJrUMKL8mAqX3dDrNwMVdZ8Fkz5lEF/s1600/cover.png",
@@ -1153,7 +1151,7 @@ window.novelData = [
           "Ecchi"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXzocJQPPmTlg7Xmij4CtG-nA275_dLEio5mjdtBiyz13WezABlTX8WbH0IB6TSk0w5AXihMmwB-v09WTwoJEmKQwgRHlEI73N6EOj2vPBdEDrKVsYl9SbuPBw6ZuPZ58meUMYtniq1NmLIXfpLlpldLj6B9iNjUm3vAHgYaxT29oltvYC1seIYoHADvst/s1600/cover.png",
@@ -1183,7 +1181,7 @@ window.novelData = [
           "Problem Solving"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDMVQ3pR2pbu3uY_TYc6bfSKiYlYycqKwBN_a4Ree9fEigiZojgjaqDorwEVOb6f3NBTauNAdk869RstETUnupb1TeYENLCvGNUN1boA59zgqeibmlGe4pLVO4Z24lxPyc7VWKKEO2Kwugk5FlxG9P94u5OS1ClUt8jA9CLNQgwfTsfQRrs9HvwcJah4eZ/s1600/cover.png",
@@ -1194,10 +1192,10 @@ window.novelData = [
           "Romance",
           "School Life",
           "Ecchi",
-          "R18"
+          "R-18"
         ],
         "type": "Light Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSy6_dMgOtSKDHlKGLnzI_8lT57vJU1Hn2k4FDHywf9at_e8Vkh6DyLMRczdAX2MSGnbdhA5EnWjdjZPJ044fysCdbG3lLOfghH2uCJbLH_BuFw9-BNj2j94QSMtnYv2E_QA1SFOOSDeBZvL-J-iidafIsIbSwSmq1S8kyaHqT4InGVxGWL69f4venCyQi/s1600/Yandere%20Hero%20Cover.png",
@@ -1211,7 +1209,7 @@ window.novelData = [
           "Yandere"
         ],
         "type": "Web Novel",
-        "status": "On-going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTERRqL35Muy2i_4ZWu3FWyZ-GOcktTk-ZwN85uu0geZnT1S-1tn6zRmjYd9sl3qxMpwmpfK9Erxr4eyn6a2Xm5JeUEAnCa47jL-ahWOzm8pXbFJDpuYl15bxhGfDrpNWRLxLzGAUWY7DfAv-eF-nIOHcSxZ1lFj1L0IKTNSQKnhiUJxFkAntXo-4R8VZ/s1600/cover.png",
@@ -1225,7 +1223,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-going",
+        "status": "Ongoing",
         "recommended": true
       },
       {
@@ -1256,7 +1254,7 @@ window.novelData = [
           "Time Leap"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLM8BlYoYy92MEBtvTowrVje-xXb1rM7DV2dqtc6XP5las0pctQh05meYRdlPZTDGSjA4Y-fOSEXHnG1HKI0n704pGhyX3mTSW94pdqHojA7ReFl5vlWbzThHqpInAHwyvmLrfFvdG1dDNdJqpex0U7gZqkDk2tSJujQUEjcYydgDo_7-vpUSx1nN7AF7/s1600/cover.png",
@@ -1270,7 +1268,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYiZE0wz-Ny6GFCPmaPUagcbvTNrY0YnMz99SNJTICSjE_2NHB9ckHGlDB1b6ze0jxCn67uoylY_PjMcssILCjRK9_lopLYkucHI2jy9SraOqT4s-YN_VXLGudxU0lLDg3k2tkSXhAf6GFFBKmuHh6KDUy7i27as-VFqvle4aaAoRs-QZdwaJyG4iAbaxz/s1600/cover.png",
@@ -1279,11 +1277,11 @@ window.novelData = [
         "genre": [
           "Comedy",
           "Romance",
-          "Echii",
+          "Ecchi",
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJMraBsHkcyCOSUcOBYgY86uFDEt0uAFmz4S94PFlwxe75jf7-Rg6nizbUduluiYqS0P6wn3gJbeCkHkxnfbriYqKAqvNO8DVjf5__n6Enh0XGB3X3NFj7u9S3cJ_4OdZEh_v5jKFBDdqH4-0piGLacrvtxB0eEXcKvl8JFgBChp-eWnwJQla39lcMH0KF/s1600/cover.png",
@@ -1293,11 +1291,11 @@ window.novelData = [
           "Comedy",
           "Romance",
           "R-18",
-          "Echii",
+          "Ecchi",
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig2rOCnGS9GB4DodCySTwaUB612t2nkH3uPdmNCrfiu8LY7LZQU0ZhTJIhZEehQgRfVgf3qdT4bJYqgzPNdXCEh8pfzVriOAUJ5YhhmDXhkxDWajM6k9_v6gkEeI6wm5P_bHrs7KgGJBk1_oVzuLIBjIMxelVFTplaAh9zVX_UFQVIkG39BWioK_NM_ELx/s1600/Yandere%20Gyaru%20Neechan.png",
@@ -1316,7 +1314,7 @@ window.novelData = [
           "Brocon"
         ],
         "type": "Web Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc5ea5axm7Wgr3sOcDU0YDSy_b2Gbin74x1GW5cMqFSgtZXEs8soDhiqOJ5yLG80wRlPvQQRIjVrdY820XSp0ZmBfqhyphenhyphenjKyBQ6Fl2aoran8AKjSk1PDRHxHLvzMWqNaDnDgoZuPkrsAlQNFJRLhKzWv_R9zm2a4COAMJabh7Yse-53E25ZZ-TQT0_IwNlP/s1600/cover.png",
@@ -1328,7 +1326,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFNtbXuSlVJFjiNXyCbsvzfsvcu1g4M3Wa5YyRFYm69tM-71LwWQQWPwdlKTN47IDLnHYL9j4GbzT8_bOGyEzZnch2AcX_xZquhxADpfpsDhrBMOnCwT29ivFNKhADGtEzg6YkFxeItxcjC9A9AcIgPry9P7GDOI-8odPiCo6V_2socf3l2KmAFtjLe_A-/s1600/cover.png",
@@ -1343,7 +1341,7 @@ window.novelData = [
           "School Life"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRjGWBchfysXfHTNw9UU0HLGuNvx1KC-XuxvTAb_VAOducL1BaSEHxGmK7loXy1aPCYPoMrFu1xVFMStEfaJ5mP84F-4P_JBGx_m6tWRSmRbO_Y2_ISyOV1IJVPBZHIR1sASNBVEoAfmXZ_GNfkbIPhqDsq1UbbDpHb8Klj1vnH4rc5v8IzD-VXTZQyYjG/s1600/cover.png",
@@ -1356,7 +1354,7 @@ window.novelData = [
           "Ecchi"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWTWnwbCohIAmjtvMfPA3Lp6gGZC0U3f7NoG57oCL6ulETGQ-H0RQ9NKbeTtKnQURZ6PMnh6OmAvuIOhIqmF5sF0R30pNZrdWh5tOUA71mlLvmY7Yu5MzEwAcWV4sMssgCVaLSepmtyRx4cAftyWKgURCRTxYPzeG6ctkzaE_BIuxpK7JRsjlT64psWFHB/s1600/cover.png",
@@ -1370,7 +1368,7 @@ window.novelData = [
           "Adult"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZUasHYAaXCU7arrT5OETbZQ2qiPF-B9wqABfhKfj9RGAntNUUhrlC2Vat2Vlhiho9_aupIQpIPx4ThqundzXFpJx2yCzVCswoNd7RxRS0usXZfaAk1u-16kHJDzA766azgZtrlL7ndhNvJolDk5fG-oMrNy-2vyLSIIRUt5zSSfDNmiTBV6G6S2xmPgT/s1600/cover.png",
@@ -1380,7 +1378,7 @@ window.novelData = [
           "Comedy",
           "Romance",
           "Slice of Life",
-          "Shonen"
+          "Shounen"
         ],
         "type": "Light Novel",
         "status": "Completed"
@@ -1401,7 +1399,7 @@ window.novelData = [
           "Cooking"
         ],
         "type": "Web Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTjOpt1xGmOEe62vDXPMYzc13WDWbduNROnF6WBUchxdE4ELEhPEXO1o8r6XcgqDXIGLQAqIvteZGif0m9DS-69F4dG9SCaD3KKGiuTH39SozHHazmm8B_iJeBk5XUUmo5n8s00NZyZtJEKf6q1OEla1tI4bYGLqIKBk0XPVrCKOdZxlS2CtLmUPqlPJfz/s1600/cover.png",
@@ -1417,7 +1415,7 @@ window.novelData = [
           "Martial Arts"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUCoM3XBmOE7koIQisUL_OOnWLZbf8VYdSCHLpwmSSoA0VlQzvg5xHMBeyPIwUX64vVjT_qgfA5Jm_ePyz6paYnE7Snnn_mIiIGRs9fHYHs-bToHviTQrcdDbCs2rEt0E39K8mXyrWrEGmm55wOxP6QpmJvQMyhpfSeO6R4IbASS98d04tRpRvT_0C7gTM/s1600/cover%20v2.png",
@@ -1430,7 +1428,7 @@ window.novelData = [
           "Tragedy",
         ],
         "type": "Light Novel",
-        "status": "One-Shot"
+        "status": "One Shot"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQDbZZbzOc79Ifj9roPi3NqZW1c2VMFNnWPWd7UrHoCkgmoF_q9eGTZt0ylxF6qKll8u7_6qswJ0TJ8c49REWxhTuvos5tAJQHUzw29a9NABeEwmXgQkHGuE5tfCjdjXjvyDn0v7QEWBLlEedmpcCnSMjiK1dcYwG7GG5C3MAwC4Q8eVhJBEYEzfJmGfYE/s1600/cover.png",
@@ -1444,7 +1442,7 @@ window.novelData = [
           "Pure Love"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiAoe_K_mpjNRxEXoyIfd7G4rsgkQl33GF5dk1_nXIizi7bzHJGusC_LdakTJfDecXQKqIRbg5MMtNJsq4ywYvLNZUXr9C1kxf9A7Z5D_mpqbah9b_3Q6PqyOvyxTvtBfKOMt7d42So_n791E9qIfkMKN2Sn-LOiLU1VaQp7ULXS1dQnVjiD09MxgEnN-J/s1600/cover.png",
@@ -1457,7 +1455,7 @@ window.novelData = [
           "Ecchi"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxUEfkXYJcMiVbUVyk7gKg2-dnNfiNu71hBoLs_ULuMlfBzOGDT8AqmbO35RS0m2n0LHJJIcWNPOMcMuzbGc6rkQWZCHeF-9EdO-AfykJvRwv2Jwt5VYbi_ykWuc3aSt46j-EIAxW9X6bGanxZF84pdMBVzWteK0hwi4i1xelzMRWhKORyHlJUeyvw4aFz/s1600/cover.png",
@@ -1469,7 +1467,7 @@ window.novelData = [
           "Comedy"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zqZR0M2AwYkmGWqK23320WnToHvW01BVuZYXzPs15zb3Ww6DczAbVakmbju0um3Y30m_QoU4zhBzqN-qishyphenhyphen-jX4gTLL1uAq_L46jFkjOIh6UD_fLZKv9sbXsLncznTopkC28QbKdIo90fwKBByQBR84-m0j3EVk60sluO_JMP75We5llQTcmjBNDhtz/s1600/cover.png",
@@ -1482,7 +1480,7 @@ window.novelData = [
           "Idol"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJlCapP3yWEGdOd9Tug28RjO_PEGVAoFtTWSSbGfK3ErTv5MIC-GU2s9vu7j3dlEGqukhWBpSzCgvM2UyI15JOmkU7iYCPRRH5571qt3jj0jdw1-vGYC-D-PqZs6O3QQ2BthX2YiJR3Q7Pg4-V053d758zhSW02BUPzT_DLhVk-YTaS0QwROpne9Di3ez/s1600/cover.png",
@@ -1490,7 +1488,7 @@ window.novelData = [
         "link": "https://yukikitsuneko.blogspot.com/p/if-i-could-meet-you-again-in-that.html",
         "genre": [
           "Romance",
-          "Coming-of-age",
+          "Coming of Age",
           "Comedy",
           "Drama",
           "Reincarnation"
@@ -1511,7 +1509,7 @@ window.novelData = [
           "Cohabitation"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       }
       ,
       {
@@ -1532,7 +1530,7 @@ window.novelData = [
               "Mind Games"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWpgHR9-UF1jjF8fic8VN8eASfNaNzzcIlMQj6IzorrZyftlSQuYBjPVnFqgEIIorWLQoULJ8QRjrBra1_tRKRnGPhm0mqVLUxWWphYx6KZpnP1n75K0Jou48f8PmSVM5ap3MevUMEpQBjvJiEmoxTeW7aFwsk9BvoxI9PRfe5IJjdGvQ1SbeD-PR6y2mM/s1600/cover.png",
@@ -1551,7 +1549,7 @@ window.novelData = [
               "Romance Subplot"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKCEzDbgv38PJxRIIy2ygchWBfz1i3wf16s2Q8fiWO1Am3ueuiOrlZ9WIt1XN9YRPMjcXXv-bngsUdMUwiLF5I84QAlYmBxoQ4yGe6Ty7mtLG9MZtaJgU6s9w4SIqiFJV52lWbAxplAnKgwtKEe7aHXt3ixLYM9B2YTLeVXOOabDE9ey4chL9swyi-rs6t/s1600/cover.png",
@@ -1567,7 +1565,7 @@ window.novelData = [
               "Cohabitation"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       }
       ,
       {
@@ -1578,11 +1576,11 @@ window.novelData = [
           "VTuber",
           "Mystery",
           "Anti-Mystery",
-          "Childhood Friends",
+          "Childhood Friend",
           "Romance Subplot"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZJvPOCIGkyIAPBDdFITP5gpPRlnw3Sz5ab0-pbPC7EYDM4P1WIX4REIQSXNVjuqMZL7LcC1554Y05IHADPHhRm7Gh9lGg-Z4UPUrSm0iFGWFrYnGzO0vZsoyMgG_0tjsb4Lbz-OAmVkqTbNPcVyHHHGqAHg4appY9vyWM2USt0JQimXKyDR0XdIAfSZfe/s1600/cover.png",
@@ -1597,7 +1595,7 @@ window.novelData = [
           "Slice of Life"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJKJGCS2nD-VnyqjA2uNgECCsr4u8m6txTHY6uw8UeQ3Ec1LdTELV6x2n5wFE_rdzwx2s569yNlrrFCFAff6M9Ufu8VGMVc5cP35ttJ7w31Rzh4WX2c3PwUDqE7Tvzp1PpTYf80PhMZqJntlPKJFj3-KKwUMdT9WGsO6o_Cv_3iHG5DZbJeMv7QUaXdAzz/s1600/cover.png",
@@ -1610,9 +1608,9 @@ window.novelData = [
           "Mature Romance",
           "Adult Humor",
           "Pure Love",
-          "R18"
+          "R-18"
         ],
-        "status": "On-going",
+        "status": "Ongoing",
         "type": "Light Novel"
       },
       {
@@ -1625,13 +1623,12 @@ window.novelData = [
           "Slice of Life",
           "School Life",
           "Pure Diabetes",
-          "Slice of Life",
               "Friends to Lovers",
               "Slow Burn",
               "Oblivious Couple"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmJe6lq_JGtAVclg1Tmp3Tee7IacidbTuKNhChOQ3MMSb2ixQigXS8wDiD0Yog6kPA6jePw4nqGRCMZrAIdApdlN14pjGhmrxxMIvO3yC719G3OKF6kiK_uVOEpBDOw5Xjm0DKTGEYhYJU6xu2jUV0gNlYz2Co0EUzMcV2cYfDIdlWmuG-cuyiXnriY15/s1600/cover.png",
@@ -1643,7 +1640,6 @@ window.novelData = [
           "Slice of Life",
           "School Life",
           "Pure Diabetes",
-          "Slice of Life",
               "Cooking",
               "Housework",
               "Secret Relationship",
@@ -1652,7 +1648,7 @@ window.novelData = [
               "Wholesome"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixAgV_tMWsInN2QnDT3XhQIdEqB-vhwpfOiM_i3Ho9z8UODQPmhYW7Rkjf3EJ_JZ0497_q_5X-djpfKLU6_xbjrwXOJ_n7JoxFLo0TGXqiyZchJo34hrDVhxfEenzN8teD_dJveiXkmjpM8L4vmACudnSDduRz-XSQChr93H1CcrpmCMY-aQ4tM_eAgbqD/s1600/cover_bs.png",
@@ -1670,7 +1666,7 @@ window.novelData = [
               "Cheat Ability"
         ],
         "type": "Light/Web Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1fvAJo9DL0uWc2W8D9Sxk9BnRl-Eep3r9sQzeh8Udd6o3uffMEHl2nqfmhs2O9xtDLnMkuvA2SpDvBkzw4GzEk0Ki3L-685vyULx3TDMHTZ6A07GjSNNRvQYhsRx0T51Op6ZToNuaXl_LPUMI-eNZlYbJEHVfVS1j4_Ae7iAvawXaBUoa6caDcf1kF0Bi/s1600/cover.png",
@@ -1686,7 +1682,7 @@ window.novelData = [
           "First Love"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
       },
       {
         "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vtzPg59lrwhC_s4d2d6xez42gMFstLs4KASZRY0dEhDrFKmWQqSD78uhwWfY6rkQbHVyeYpFIYqZDjzO-jpTwWO5mnRygUmfUpWBUXjoP2mixeNpM8TwPd3UxLeM1o1uIsQYYVkyr9_hET57jct_yv2hQouSSAUb01bqntj7sCZ5d1zP6UGrfGtMQ0qI/s1600/cover.png",
@@ -1699,6 +1695,404 @@ window.novelData = [
           "Youth"
         ],
         "type": "Light Novel",
-        "status": "On-Going"
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV2kn2rtdF9tEPG-xsvav9Gko7lB1fRwTzJ9pBR-VtnqZJQAnAnYCqPpNNMJjP3VnLgmZlvHrrQAzuJO94Dqzyo5a7mIv-dbecOhZNCspWgMl2_QRQwNlw-kcVV9TRIzPCALDlx4CRwauac5n1ERWFjBc8Gym3265Js6FsTjUNf7xh_jtU_hAjGWTgi9Ck/s1600/love%20villainess%20Cover.png",
+        "title": "I’m a Guy Who Loves Villainess Noble Girls and Got Reincarnated as a Frontier Noble, So I Volunteered to Be the Exile Destination for a Marquess’s Daughter Whose Engagement Is Being Annulled",
+        "link": "https://yukikitsuneko.blogspot.com/p/my-exiled-villainess.html",
+        "genre": [
+          "Comedy",
+          "Romance",
+          "Reincarnation in Another World",
+          "Exile",
+          "Pure Diabetes"
+        ],
+        "type": "Web Novel",
+        "status": "Completed"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUoeBNcS2VLvb5AUgfAbjL6S3ZeoX6opF2XJKmuUxpZ_1PGQeF7ywY692PYfts0BGWl5Y5WTVfBtR8mkc6EELkdhhLk7pmRA27lIF5L4HAYYIriiQEHLUjhHDybFySEIyYqmqaThRb3iCHVxpmSLkILXPSzYtYpm677suCMOVKTq4Y8tvCPiM1vY9FY1Q3/s1600/cover.png",
+        "title": "Reincarnated Lords Troublesome Sex Techniques: When I Used Modern Knowledge in a World Without the Concept of Eros",
+        "link": "https://yukikitsuneko.blogspot.com/p/reincarnated-lords-troublesome-sex.html",
+        "genre": [
+          "Comedy",
+          "Romance",
+          "Fantasy",
+          "Ecchi",
+          "R-18"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO3nOumfxDuj3zJRY8SwCcMMRM2U2WKS8519LQvkIlJOsZVRyVY7DLLgpyovH-azKceo_Ye_k3hS5svPySbRj2XtzyQKI4Zl_wpJaOsmnc-k-aRRCu-jjqmWvQJlvFGCU3exUGpQBK_WPxtGX2HQe63gPooqHr1-fdgAKt3FYeWWVyKzumwVjexW_kROTz/s1600/2nd%20Life%20Cover.png",
+        "title": "In My Second Life After a Bad End, a Classmate I Never Met in the First World Is Suddenly Directing Extremely Heavy Feelings Toward Me",
+        "link": "https://yukikitsuneko.blogspot.com/p/in-my-second-life-after-bad-end.html",
+        "genre": [
+          "Youth",
+          "Romcom",
+          "Yandere",
+          "School Life",
+          "Time Leap"
+        ],
+        "type": "Web Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi75vsmyrhkQ5fhC2_mH7Jkscx19aZJxudZBm8npbiuV3OB2gP09sm4ncbUF00zd2xHjL77LyAoK32hT6956S2UCz2twwmhS0E_6D2D-vFlq2evaXs_0iEgiZ2CPAGvDirsvF1iBpjvSylm9Mwcv0VVs0arNZJi0BI_XoE2JGT4wPlP1PBi-dQbpRC7aFFv/s1600/cover_HD.png",
+        "title": "Machino-san Wants A Retort",
+        "link": "https://yukikitsuneko.blogspot.com/p/machino-san-wants-retort.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "School Life"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO85ugZAh_xXREoWhIIT5-lGAejEzIeJlWqdwvCv9KKKpR9u2MW5ybQIF0R-ydf2R8W8beOOx9dvTOJodfUr056izPMs5_UeKWaRSmiBc4yZfuWvgeK-catXfxJbT2lVg_aS0v_ftuENRhKpAS7w3BJEVJDv6TP2blYVqLvuXc7KInTSJM7kGRtzBlQRii/s1600/cover.png",
+        "title": "Lovably Hopeless Mamiya-san The Beautiful PR Woman from Work Won’t Leave the Seat Beside Me",
+        "link": "https://yukikitsuneko.blogspot.com/p/lovably-hopeless-mamiya-san.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Slice of Life",
+          "Adult",
+          "Office Romance"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSl-WQ87wpSMuNwpHyoBI1BWQTmQjsLbsdx4BAvflUAuJEgHCmkVBisnLqR0h8NWM1rQ2xsmM8__69JEnapVKvsu4PmBWqYU_xbMZiOSsmc0cdDDyKtE-N902VOmvuITYDqgC-X6ePe-fk20nQxHyC4fFX6DAjdn6e1dQEYZrn1cPvn-GZGQWphoGAhy-Q/s1600/cover.png",
+        "title": "#TheHashtagThatExposedMyCringeyPast",
+        "link": "https://yukikitsuneko.blogspot.com/p/thehashtagthatexposedmycringeypast.html",
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Slice of Life",
+          "School Life",
+          "Modern Drama"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw8coMLOMpitwuXkLEgMXv8PmIeX6yantt5CbriBoFAhlfX2cxxIVt_BYs9jEa9NXTsFva-CusuK5OfAlwyiScXfoN0Hf3LA1uKJn6ppvLVmj9_jwcraWMc4s_jIsmMvLpBYqvc2FwUJWVk3tqzCAEwllD4U-OV9wyzGxKSNXlpLFypPWZ9H6Ty7cFEVCM/s1600/cover.png",
+        "title": "The Hungry Gal Who Eats a Ton Was Getting Two-Timed, So I’m Winning Her Heart Through Her Stomach and Stealing Her from Her Trash Boyfriend",
+        "link": "https://yukikitsuneko.blogspot.com/p/hungry-gal.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Gyaru",
+          "Cooking",
+          "Food",
+          "Big Eater",
+          "NTR",
+          "Serves You Right",
+          "Mutual Pining",
+          "Slow Romance",
+          "Sweet Romance"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1-0UYh7h4_MjDrQeE9iOtt4u4XoAmdtzBZufIKK_tncYKpnJPNCiK-lcPZ8u4VSsIPq5e-MZwyBlOIa7K0QGCUxcYkEb15hWQHd9TZt6XH07rnkULSt6G8JQU5OjcxW9IwBqmJvVOzdvZGBSRVGeBLMjGGtSf9_p8xbZ_kBSv3jqqLcsI5fZVyWCe9a4f/s1600/Rooftop%20Cover.png",
+        "title": "After My Girlfriend Was Stolen from Me, My Childhood Friend Saved Me on the Rooftop Where I Tried to End It All",
+        "link": "https://yukikitsuneko.blogspot.com/p/saved-on-rooftop.html",
+        "genre": [
+          "Romantic Comedy",
+          "Childhood Friend",
+          "NTR",
+          "Revenge",
+          "Betrayal",
+          "Cheating",
+          "Serves You Right",
+          "School Life",
+          "Youth",
+          "Male Protagonist"
+        ],
+        "type": "Web Novel",
+        "status": "Completed"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg891-DJmXMGTol-yzUc6NJ_JVuV3pfKPEX9AMQEZQxYC6sZCnEb07OwArTueJklh4fnp4mbc_tnLAgj1NqJluzLXHOZrDP8R7gfjBjN37E4YnfA3OOmyxwPXrKAn2In_8EIY1CHTv2hGQNO0GQEgy6U7Gz3rrwBEVcimwmwtf10Ox3T4GWcWV0plP6XlfB/s1600/Sweet%20Only%20to%20Me%20Cover.png",
+        "title": "I Risked My Life to Save a Guy-Hating Gyaru—Now She’s Sweet Only to Me",
+        "link": "https://yukikitsuneko.blogspot.com/p/her-one-exception.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Love That Begins with a Voice",
+          "Gyaru",
+          "Hates Men",
+          "Lifesaving Hero",
+          "Missed Connections",
+          "Partial Use of AI in the Main Text"
+        ],
+        "type": "Web Novel",
+        "status": "Completed"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSqcGULJEfjKGe1lKfXDH1JqSQbqZcg1yp6-bclLpG38W69ApgrBp3Y9mkrBI4cdICJBY-gpkyO1wABJsR6-2ZuhaoDFLmJXs7jr96kzbG6_PgT1-gFQndgSC0ltAs5CXUy3ADYsT4tK7b5QKZ2VtSVihKhVI7U_VrBUOC-ePMHL4aosBq6By99tRCzuiV/s1600/cover.png",
+        "title": "If You Live Next Door, Eventually This Happens",
+        "link": "https://yukikitsuneko.blogspot.com/p/next-door-love.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Neighbors",
+          "Mutual Love",
+          "Mutual Pining",
+          "Friends to Lovers",
+          "High School",
+          "Beautiful Female Lead",
+          "Popular Female Lead",
+          "Student Council",
+          "Living Alone",
+          "Close Friends",
+          "Dense Protagonist",
+          "Romantic Tension",
+          "Fluff",
+          "Sweet Romance",
+          "Slow Romance",
+          "Skinship",
+          "Male Protagonist",
+          "Modern Day"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6xmTENyUtCxgh7Qwp5JHfOPvg_r-6Hhy96wDkgHT6lFeS-s8SQxvoFXTD_2q1z65dQeoq-lzJvv2VgVoZ5dfRxYxwY0o49glO-3m6pJXx8VmZsrDNsfCiv9TAMra7IyX7lehsMACBMvXafzd6IL7ldttHcLPK638iHrjqcDF3rENGqst-f6J5K1owCL6/s1600/cover.png",
+        "title": "The Silent Kohinata-san Keeps Headbutting My Chest for Some Reason",
+        "link": "https://yukikitsuneko.blogspot.com/p/silent-kohinata.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "High School",
+          "Silent Heroine",
+          "Shy Heroine",
+          "Affectionate Heroine",
+          "Cute Female Lead",
+          "Small Female Lead",
+          "Male Protagonist",
+          "Socially Awkward Protagonist",
+          "Skinship",
+          "Fluff",
+          "Sweet Romance",
+          "Slow Romance",
+          "Friends to Lovers",
+          "Healing",
+          "Modern Day"
+        ],
+        "type": "Light Novel",
+        "status": "Completed"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5BBsJUrX1PMoGRhz1Q8ILhBSAKdbSa3PWl7uLY3s9z7eWxbEZGftGbiI-8Rro9z6r3vboXrQeizLR0MbHy3R3pasfG8Ycs38apJtPnj9lHvarRS0zzsFKBFZWdDRmfIdjwt0vvT0FxdJXi28sxHCy33nOMviXkiI2FZV-yFb9nQVWe3H8X67plL0B9Yd/s1600/cover.png",
+        "title": "The Rom-Com Where the Heroine Dies at the End",
+        "link": "https://yukikitsuneko.blogspot.com/p/the-heroine-dies-at-end.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Drama",
+          "Mystery",
+          "Suspense",
+          "Tragedy",
+          "Youth Romance"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglkER0p8BmOfYakhSyt6Od2h0DZZZQPHyjNoXztvdR7CPHmSJ6Fr6nS6WUh7DA_4xqmrpc5dh1Un2VWR9meWJOTTEStsMxs9DJUz4foRV-KdU6nzRcWQ2UWhpj-mDuimNn0EDKDDGTVpEqTqihgPoIQwz-av-DNcOQoXEU9mVxsERsjcSy4TT9dY1q5t95/s1600/cover.png",
+        "title": "My Adorably Clumsy Kouhai Got the Order of First Love All Wrong — We Crossed the Line, but Somehow Ended Up in a Pure Relationship",
+        "link": "https://yukikitsuneko.blogspot.com/p/first-love-bug.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Senpai/Kouhai",
+          "First Love",
+          "Pure Love",
+          "Otaku",
+          "Clumsy Heroine",
+          "Sweet Romance",
+          "Youth Romance",
+          "Male Protagonist",
+          "School Romance"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zoK5FYebb4LIuSAFPpWiSKNyLdC6qUWJ7_wJqzm88q19JCN9XHKG8WBS1Iwh1wWlyIgLoVCtrCVjeanb1XnDJZf1Yg41wj-tqekoIwssFoDD9-Mn1hFYfjrt0WhkRw1DeTSnEMQBNTAsvUbGj2ifOKttlCKN99XSsM52GtlIOARTrJ1ejDBOVuD6ZfJ2/s1600/cover.png",
+        "title": "The Purehearted Gyaru and the Awkward Musclehead’s Slow-Burn Romance",
+        "link": "https://yukikitsuneko.blogspot.com/p/purehearted-gyaru.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Gyaru",
+          "Mutual Pining",
+          "Fitness",
+          "Bodybuilding",
+          "Personal Training",
+          "Influencer",
+          "Modeling",
+          "Slow Romance",
+          "Childhood Acquaintances",
+          "Dense Couple",
+          "Male Protagonist"
+        ],
+        "type": "Light Novel",
+        "status": "Completed"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheqhdHSVjBX1wLX1eY2BBUjhJyv30NEgRhPXv6TennJvuCWzAdf-kOJADSRJO_ZpfIHK97wA4dQca86ak1Enxg8wRim3Mi7aYQIZzXTdoEghS4V8zGDTCG8uYmXgbkCyHxvFS0GyFZnbl_OkVO8WZ9cGL9B8WG6gewzKZDdGyGUuG-KdjodhzcFvS6GLN5/s1600/cover.png",
+        "title": "I’m Secretly High-Spec, and the Prettiest Girl in School Became My Secretary",
+        "link": "https://yukikitsuneko.blogspot.com/p/school-beauty-secretary.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Pure Diabetes",
+          "Moe Heroine",
+          "Secretary"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxt05QZ3jT9-ngoGxTb3ce4Y5Oe0yQl2-5NNiCmXZ8PdlTDw-DLJ-dR2Lm_ROZRZCY8GGRgQmQGks0JLVhT6anfhxXXp96dtw_D8PC73rU8YExxUOIZswtWOr7naWkicIwc8ghAc54K7Kq92XQq5SMvX_vuUlOOkeBRcrX9wCDE_3DjeRxK-j4JTk3bVk7/s1600/cover.png",
+        "title": "Why Did I, Who Likes Older Girls, Fall for Tiny You?",
+        "link": "https://yukikitsuneko.blogspot.com/p/why-i-fell-for-tiny-you.html",
+        "genre": [
+          "Romance",
+          "Romantic Comedy",
+          "School Life",
+          "High School",
+          "First Love",
+          "Proactive Heroine",
+          "Short Heroine",
+          "Cute Heroine",
+          "Older-Woman Preference",
+          "Friends to Lovers"
+        ],
+        "type": "Light Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKe2kaPofNy9vwgxQC8tma5tVH9foKSS5l_41CFxO0BC5B0A6B7EHHegjdy8NXbLFHGLPWxAQ0SR4S7R1rLUNpJklhvA3bOwUXus6ScM6O0Nr016bUTaw1RuRY6pEI9dRZeyce9F9Q-9VLGGU72hmF4WUpTtDAOqsotI8r7Tg4f3X-CQsKr9H7LmJiSszo/s1600/Love%20Off%20Script%20Cover.png",
+        "title": "I Joined a Dating Reality Show as a Substitute, but Things Aren’t Going According to Plan",
+        "link": "https://yukikitsuneko.blogspot.com/p/love-off-script.html",
+        "genre": [
+          "Model",
+          "Dating Reality Show",
+          "Gap",
+          "Status Gap",
+          "Youth",
+          "Intensely Devoted Heroine",
+          "College Students",
+          "AI-Assisted"
+        ],
+        "type": "Web Novel",
+        "status": "Completed"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNtI9mXbizhhRy4wUhoymdiFuL4d4lceKN1mZBfaRTMLmcw_Cpz0YXQrgLpfpLB24jd2JT1Gg6CMe-bZ8dnc0YSgCM8sSSviuQ7_N4FQu7ttBM7yFmGTvmX425jvLaK9HNqPlY2pERB1hJ00b37wtDexeFALwL92BcpQrKyjC7CmanybkvQUa_OTnbw-Bj/s1600/Fake%20Confession%20Gyaru%20Cover.png",
+        "title": "After My First Love Rejected Me Ten Times and Then Fake-Confessed, I Pushed Her Away—Now the Caring Gyaru Beside Me Is Showering Me With Heavy Love",
+        "link": "https://yukikitsuneko.blogspot.com/p/fake-confession-gyaru.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Drama",
+          "Love Triangle",
+          "Childhood Friend",
+          "Gyaru",
+          "Tsundere",
+          "Fake Confession",
+          "Jealousy",
+          "Regret",
+          "Pure Diabetes"
+        ],
+        "type": "Web Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqzJt_wVqJ5hxp28Xha45JTTU3Lz65SnhMBPUS1RpL9D6_2zqXUuHuhjXm4chnBwU-wN_cD3L-EJWDLmWiqd4iF6pdhnWfyOCAF1OHwJqSrzVhJSL8by-XETwvoc8jUZJW2K4bwNwCOfYHfTHMp8GlHgP9e51-npjMXVCpoFdpRm5i5a92tu2aW7MsL4RS/s1600/Absent%20Without%20Me%20Cover.png",
+        "title": "I Spent a Year Helping a Beautiful Girl Return to School. When I Thought She’d Be Fine Without Me and Stepped Away, She Stopped Coming Again the Very Next Day",
+        "link": "https://yukikitsuneko.blogspot.com/p/absent-without-me.html",
+        "genre": [
+          "Romance",
+          "Romantic Comedy",
+          "School Life",
+          "Drama",
+          "Pure Love",
+          "Misunderstanding",
+          "Yandere",
+          "Heavy Love",
+          "Emotional Dependency",
+          "Jealousy",
+          "School Refusal",
+          "Happy Ending"
+        ],
+        "type": "Web Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQXS-lp5F6P9lG81vikwIWcLK8YBjrSkvcuMJve_CP0ifd2yP5aNY8OUINcCxJ2-hTscsn6ki2_2U6rFaVagOZEDPKSyIWcp6jSgMeB43oPwjqft5T3NaDQSWtqjigKwkREQTSe3ga3lnt9awM6qVsM9DaRLTOi8AMNprHwWEe4pivsXHac58AV5VXMVtl/s1600/Discarded%20Salvager%20Cover.png",
+        "title": "Banished After My Class Was Transported to Another World, I Got the Useless Job Salvager but the More Abandoned Something Is the Stronger I Can Restore It After Turning the Demon Frontier Into Paradise With My Saintess Childhood Friend the Popular Heroes Want Us Back but Its Too Late",
+        "link": "https://yukikitsuneko.blogspot.com/p/discarded-salvager.html",
+        "genre": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Isekai",
+          "Class Transfer",
+          "Banishment",
+          "Slow Life",
+          "Frontier Development",
+          "Overpowered Protagonist",
+          "Childhood Friend",
+          "Saintess",
+          "Serves You Right",
+          "Magic",
+          "R15"
+        ],
+        "type": "Web Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTR8KwoXQV6qcS5brUHlQHWZhji_GvzcDR3un7spiLIrvf9JfSGJCLS-2ld20laS38s1zIwHZY2OAWeumj99lAXCgETSkYSDfA7aZJMlCbuOlzTRw3es1tNyPIMcpz1aJ_Pa1fyeAUm41bZMf8M3e1kFek1a26MGfeTBRRsNbM4Y8nxt_RHaVGiNeA7kZ/s1600/Childhood%20Friend%20Panic%20Cover.png",
+        "title": "My Childhood Friend Told Me Not to Talk to Her at School—Now She's Panicking Because I've Grown Close to Another Girl",
+        "link": "https://yukikitsuneko.blogspot.com/p/childhood-friend-panic.html",
+        "genre": [
+          "School Life",
+          "Childhood Friend",
+          "Little Sister",
+          "Romantic Comedy",
+          "Youth",
+          "Romance",
+          "High School Student"
+        ],
+        "type": "Web Novel",
+        "status": "Ongoing"
+      },
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp4YrtAqOLTGm5gs-LJxDnUF9VpiIMoO7eXLOSPKDGN7ZyIb42bIDsCXzufM5StwlKeptQ4iYBbmjv3MG2938MwG-oQoqCX5c3vmEG9fx1B-NJcEFKjQd-KLMLhZ9PYdh_33wlZZjxGxY_vkzaVEFDP0-tYIhC252xRQQ6Gy76Riyg2ULMI_OqFXTxfeG-/s1600/After%20the%20Fake%20Confession%20Cover.png",
+        "title": "The Girl I Liked Confessed to Me, So I Accepted—Only to Be Exposed Online the Next Day as a “Delusional Guy.” After Her Fake Confession Made Me Give Up on Her, the Top-Ranked “Ice Princess” in Our Year Started Getting Attached to Me",
+        "link": "https://yukikitsuneko.blogspot.com/p/after-fake-confession.html",
+        "genre": [
+          "Romantic Comedy",
+          "School Life",
+          "Fake Confession",
+          "Serves You Right",
+          "Regret",
+          "Angst",
+          "Beautiful Girl",
+          "No Getting Back Together"
+        ],
+        "type": "Web Novel",
+        "status": "Ongoing"
       }
     ];
